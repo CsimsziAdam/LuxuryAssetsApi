@@ -31,3 +31,7 @@
 /Users/csimszi/Desktop/LuxuryAssets/LuxuryProjects/LuxuryAssetsApi/obj/Debug/net10.0/LuxuryAssetsApi.pdb
 /Users/csimszi/Desktop/LuxuryAssets/LuxuryProjects/LuxuryAssetsApi/obj/Debug/net10.0/LuxuryAssetsApi.genruntimeconfig.cache
 /Users/csimszi/Desktop/LuxuryAssets/LuxuryProjects/LuxuryAssetsApi/obj/Debug/net10.0/ref/LuxuryAssetsApi.dll
+/Users/csimszi/Desktop/LuxuryAssets/LuxuryProjects/LuxuryAssetsApi/obj/Debug/net10.0/LuxuryAssetsApi.sourcelink.json
+/Users/csimszi/Desktop/LuxuryAssets/LuxuryProjects/LuxuryAssetsApi/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
+/Users/csimszi/Desktop/LuxuryAssets/LuxuryProjects/LuxuryAssetsApi/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/csimszi/Desktop/LuxuryAssets/LuxuryProjects/LuxuryAssetsApi/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.InMemory.dll
