@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JBR5qKgnJCE=",
+  "success": true,
+  "projectFilePath": "/Users/csimszi/Desktop/LuxuryAssets/LuxuryProjects/LuxuryAssetsApi/LuxuryAssetsApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/csimszi/.nuget/packages/microsoft.aspnetcore.openapi/10.0.14/microsoft.aspnetcore.openapi.10.0.14.nupkg.sha512",
+    "/Users/csimszi/.nuget/packages/microsoft.openapi/2.12.2/microsoft.openapi.2.12.2.nupkg.sha512"
+  ],
+  "logs": []
+}
